@@ -2,7 +2,7 @@
 
 A smart home solution that uses **IoT and Power BI** to monitor, control, and analyze household energy usage, helping improve efficiency and support sustainable smart cities.
 
----
+
 
 ## Project Overview
 
@@ -14,7 +14,7 @@ This project aims to solve the problem of inefficient energy usage in homes by p
 
 The system connects multiple IoT devices through a home gateway and server, allowing users to manage energy intelligently.
 
----
+
 
 ## System Architecture
 
@@ -32,7 +32,7 @@ IoT Devices → Home Gateway → Server → Dashboard → User
 - Data is sent to the Power BI dashboard for visualization  
 - Users interact through a smartphone interface  
 
----
+
 
 ## Device Control Interface (IoT Monitor)
 
@@ -51,7 +51,7 @@ This interface shows how users can control devices in real-time using a smartpho
 
 This enables remote automation and real-time control, improving user convenience and energy efficiency.
 
----
+
 
 ## IoT Simulation (Cisco Packet Tracer)
 
@@ -68,7 +68,6 @@ This simulation demonstrates the working of the smart home system:
 
 This setup ensures seamless device interaction and centralized control.
 
----
 
 ## Dashboard and Analytics
 
@@ -84,7 +83,7 @@ The Power BI dashboard provides:
 - Target vs actual efficiency  
 - Interactive slider for dynamic analysis  
 
----
+
 
 ## Features
 
@@ -96,7 +95,7 @@ The Power BI dashboard provides:
 - Data visualization using Power BI  
 - Trend analysis  
 
----
+
 
 ## Technologies Used
 
@@ -105,7 +104,7 @@ The Power BI dashboard provides:
 - IoT Devices – Lights, Fan, AC, Sensors  
 - Networking – Wireless Communication  
 
----
+
 
 ## Testing
 
@@ -117,7 +116,7 @@ The system was tested using:
 
 All test cases passed successfully, ensuring proper system functionality.
 
----
+
 
 ## Applications
 
@@ -126,7 +125,6 @@ All test cases passed successfully, ensuring proper system functionality.
 - Smart city energy systems  
 - Energy monitoring solutions  
 
----
 
 ## Sustainability Impact
 
@@ -137,7 +135,7 @@ This project supports:
 - SDG 12 – Responsible consumption  
 - SDG 13 – Climate action  
 
----
+
 
 ## Future Scope
 
@@ -147,13 +145,13 @@ This project supports:
 - Real-time hardware deployment  
 - Smart grid integration  
 
----
+
 
 ## Conclusion
 
 This project demonstrates how IoT and data analytics can be combined to build an efficient energy management system. It reduces wastage, improves awareness, and contributes to sustainable living.
 
----
+
 
 ## Authors
 
