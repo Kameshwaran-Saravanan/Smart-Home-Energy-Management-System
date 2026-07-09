@@ -28,7 +28,6 @@ IoT Devices → Home Gateway → Server → Dashboard → User
 - Devices such as lights, fan, AC, sprinkler, and sensors are connected wirelessly  
 - The home gateway acts as the central communication hub  
 - The server processes device data and stores system status  
-- Data is sent to the Power BI dashboard for visualization  
 - Users interact through a smartphone interface  
 
 
