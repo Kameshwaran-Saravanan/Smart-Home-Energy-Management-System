@@ -1,7 +1,6 @@
 # Smart Home Energy Management System using IoT and Data Analytics
 
-A smart home solution that uses **IoT and Power BI** to monitor, control, and analyze household energy usage, helping improve efficiency and support sustainable smart cities.
-
+An **IoT**-based smart home system that monitors and controls household energy usage, with **Power BI** used for analyzing consumption patterns to improve energy efficiency and support sustainable smart city development.
 
 
 ## Project Overview
